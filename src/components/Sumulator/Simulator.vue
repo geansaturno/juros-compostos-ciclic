@@ -46,7 +46,7 @@
 
 <script lang="ts">
 import { Component, Vue, Provide } from 'vue-property-decorator'
-import Button from '../Button/Button.vue'
+import Button from '@/components/Button/Button.vue'
 
 @Component({
   components: {

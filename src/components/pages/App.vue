@@ -9,8 +9,8 @@
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
-import Simulator from '../Sumulator/Simulator.vue'
-import Menu from '../Menu/Menu.vue'
+import Simulator from '@/components/Sumulator/Simulator.vue'
+import Menu from '@/components/Menu/Menu.vue'
 
 @Component({
   components: {
